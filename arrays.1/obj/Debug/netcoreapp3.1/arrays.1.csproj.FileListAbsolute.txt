@@ -1,0 +1,11 @@
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\bin\Debug\netcoreapp3.1\arrays.1.exe
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\bin\Debug\netcoreapp3.1\arrays.1.deps.json
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\bin\Debug\netcoreapp3.1\arrays.1.runtimeconfig.json
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\bin\Debug\netcoreapp3.1\arrays.1.runtimeconfig.dev.json
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\bin\Debug\netcoreapp3.1\arrays.1.dll
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\bin\Debug\netcoreapp3.1\arrays.1.pdb
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\obj\Debug\netcoreapp3.1\arrays.1.csprojAssemblyReference.cache
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\obj\Debug\netcoreapp3.1\arrays.1.AssemblyInfoInputs.cache
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\obj\Debug\netcoreapp3.1\arrays.1.AssemblyInfo.cs
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\obj\Debug\netcoreapp3.1\arrays.1.dll
+C:\Users\iiflu\Desktop\Uni\Intro Programming\Arrays-Lists\arrays.1\obj\Debug\netcoreapp3.1\arrays.1.pdb
